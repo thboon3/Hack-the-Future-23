@@ -1,0 +1,17 @@
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\bin\Debug\net6.0\Challenge 3.exe
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\bin\Debug\net6.0\Challenge 3.deps.json
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\bin\Debug\net6.0\Challenge 3.runtimeconfig.json
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\bin\Debug\net6.0\Challenge 3.dll
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\bin\Debug\net6.0\Challenge 3.pdb
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\obj\Debug\net6.0\Challenge 3.csproj.AssemblyReference.cache
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\obj\Debug\net6.0\Challenge 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\obj\Debug\net6.0\Challenge 3.AssemblyInfoInputs.cache
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\obj\Debug\net6.0\Challenge 3.AssemblyInfo.cs
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\obj\Debug\net6.0\Challenge 3.csproj.CoreCompileInputs.cache
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\obj\Debug\net6.0\Challenge 3.csproj.CopyComplete
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\obj\Debug\net6.0\Challenge 3.dll
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\obj\Debug\net6.0\refint\Challenge 3.dll
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\obj\Debug\net6.0\Challenge 3.pdb
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\obj\Debug\net6.0\Challenge 3.genruntimeconfig.cache
+C:\Users\thboo\source\repos\Hack The Future\Challenge 3\obj\Debug\net6.0\ref\Challenge 3.dll
